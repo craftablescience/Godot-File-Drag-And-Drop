@@ -1,2 +1,2 @@
-# Godot-File-Drag-And-Drop
-Drag txt files onto the game, and it will display them.
+# Godot: File Drag And Drop Experiment
+Drag `.txt` files onto the game, and it will display them.
